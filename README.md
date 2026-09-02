@@ -1,6 +1,6 @@
-Hi, I'm Ziad Ehab 👋
+# Hi, I'm Ziad Ehab 👋
 
-📊 Data Analyst | Computer Science & AI Student
+### 📊 Data Analyst | Computer Science & AI Student
 
 I'm a Computer Science & AI student at **Helwan University**, passionate about **Data Analytics, Business Intelligence, and Data Visualization**.
 
@@ -8,17 +8,17 @@ I enjoy transforming raw data into meaningful insights and building interactive 
 
 ---
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-📌 Data Analysis
+### 📌 Data Analysis
 
 `Python` `Pandas` `NumPy` `SQL` `Excel`
 
-📊 Business Intelligence & Visualization
+### 📊 Business Intelligence & Visualization
 
 `Power BI` `Tableau` `Excel Dashboards` `Matplotlib` `Seaborn`
 
-🧹 Data & Analytics
+### 🧹 Data & Analytics
 
 `Data Cleaning` `EDA` `Statistical Analysis` `Data Visualization`
 
@@ -28,17 +28,17 @@ I enjoy transforming raw data into meaningful insights and building interactive 
 
 ---
 
-📂 Featured Projects
+## 📂 Featured Projects
 
-🚗 US Accidents Analysis
+### 🚗 US Accidents Analysis
 
 Exploratory analysis of US traffic accident data to identify patterns related to accident severity, time, location, weather, and road conditions.
 
-Tools: Python • Pandas • NumPy • EDA • Data Visualization • Machine Learning
+**Tools:** Python • Pandas • NumPy • EDA • Data Visualization • Machine Learning
 
 ---
 
-🛒 Olist E-commerce Analysis
+### 🛒 Olist E-commerce Analysis
 
 Analyzed Brazilian e-commerce data to explore customers, orders, products, sellers, payments, and reviews using SQL and Python.
 
@@ -46,7 +46,7 @@ Analyzed Brazilian e-commerce data to explore customers, orders, products, selle
 
 ---
 
-📈 Sales Performance Dashboard
+### 📈 Sales Performance Dashboard
 
 Built an interactive Excel dashboard to analyze sales performance, profitability, products, categories, sales channels, and payment methods.
 
@@ -54,7 +54,7 @@ Built an interactive Excel dashboard to analyze sales performance, profitability
 
 ---
 
-👥 Customer Churn Analysis
+### 👥 Customer Churn Analysis
 
 Analyzed customer data to identify patterns associated with customer churn and visualize key customer behavior metrics.
 
@@ -62,7 +62,7 @@ Analyzed customer data to identify patterns associated with customer churn and v
 
 ---
 
-📱 Social Media Analysis
+### 📱 Social Media Analysis
 
 Analyzed social media usage patterns and explored relationships between social media usage, academic performance, sleep, and other factors.
 
@@ -70,7 +70,7 @@ Analyzed social media usage patterns and explored relationships between social m
 
 ---
 
-🎓 Education
+## 🎓 Education
 
 **Helwan University**
 Faculty of Computers & Artificial Intelligence
@@ -78,7 +78,7 @@ Computer Science & AI
 
 ---
 
-📫 Let's Connect
+## 📫 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/ziad-ehab-48223a391)
 
@@ -89,4 +89,3 @@ Computer Science & AI
 ---
 
 ⭐ Thanks for visiting my profile!
-
